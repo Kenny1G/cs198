@@ -1,7 +1,7 @@
 # Welcome to CS106A!
 
-## Kenny Oseleononmen Jr.(he/him)
-### [kenny1g@stanford.edu](mailto::kenny1g@stanford.edu)
+## Kenny Oseleononmen Jr. (he/him)
+### [kenny1g@stanford.edu](mailto:kenny1g@stanford.edu)
 
 ## Section 
 - Section is a fun way to learn CS in addition to lecture.  
