@@ -10,6 +10,7 @@
    - Answering/Asking questions
    - Encouraging other sectionees
    - Evident attention
+- If you can't make it to section, you can attend another section... In that case, email me with the name of the section leader whose section you attended
 
 
 ## Homework 
