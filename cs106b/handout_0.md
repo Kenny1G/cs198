@@ -23,16 +23,16 @@ My name is Kenny- I'm a first year transfer and sophomore majoring in CS on the 
 - I will also try to return all assignments to you within a week so that you have feedback on your last assignment before the next one is due.
 
 ## Late Policy 
-- Work turned in by the due date will get a 2% on-time bonus.
+- Work turned in by the due date will get a (pretty) small on-time bonus.
 - Work turned in after the due date has a 48 hour full-credit grace period (Unless otherwise stated in the assignment). 
-- Work turned in later than 48 hours loses 15% credit per day beyond the grace period. 
-- If you turn something in very late, please contact me so I know it's there to grade. 
+- After the 48 hour grace period, submissions are not accepted unless a prior arrangement has been made.
 - Contact the head TA to arrange extra time for extraordinary circumstances.
 
 ## Interactive Grading 
 - For each assignment, you and I will spend about fifteen minutes going over your solution, 
 - We will discuss things you did excellently and discuss any areas for improvement.  
 - You can also use IGs to ask questions about the course or the next assignment.  
+- I will send out a scheduling email after the due date of each assignment... It will contain the link to the paperless page for signing-up for a slot. Please be on the look-out for these.
 - Note: Attending IGs are also part of your grade
 
 ## LaIR Hours 
@@ -40,6 +40,21 @@ My name is Kenny- I'm a first year transfer and sophomore majoring in CS on the 
 - You can usually find me there on Sundays from 5pm to 7pm (PST) but you can get help from any section leader. 
 - LaIR is good for both conceptual questions (What is a stack?) and help with debugging your code.
 
+## Style
+- The style guide can be found on the website at the link ["Guide to Style"](https://web.stanford.edu/class/archive/cs/cs106b/cs106b.1216/resources/style_guide.html).
+- Generally, I expect most functions to be about 25 to 30 lines long. Think of this as a
+speed limit  if the speed limit is 30 mph and you go 32 mph, the cops won’t mind. If you
+go 60 mph, well, that’s a cause for a ticket (or a lower grade).
+- Single-line or in-line comments should begin with //. Multi-line comments should be in
+the 
+ `/* Hello.
+   * Please imagine that this is a multi-line comment!
+   */`
+form.
+- As your grader, I care about consistency. If you have random spaces in your code for
+example, your style grade will reflect that.
+- This is definitely a hard skill to learn. Don’t worry about your first style grade. Once you
+get a feel for good style, it comes naturally!
 
 ## Contacting me 
 - If you have any questions or concerns about the course, email me. 
